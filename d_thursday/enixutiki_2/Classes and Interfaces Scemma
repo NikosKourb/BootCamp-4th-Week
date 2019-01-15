@@ -1,0 +1,20 @@
+House
+     
+      
+     
+      Garden
+                      interface(Runnable)
+           
+                         Animal
+                  
+              
+                          Dog
+                                 Running
+                                 Freeze
+                                 Looks_at_something
+                                 Barks
+                              
+                          Rat
+                                 Looks_at_something
+                                 Runs
+                                       
